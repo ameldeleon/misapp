@@ -291,7 +291,7 @@
   {
     "fecha_real": "27-12-2024",
     "fecha_calendario_liturgico": "San Juan apóstol y evangelista",
-    "primera_lectura": "1Juan 1,1-4",
+    "primera_lectura": "1 Juan 1,1-4",
     "salmo": "Salmo responsorial 96",
     "antifona_salmo": "Alegraos, justos, con el Señor.",
     "segunda_lectura": null,
@@ -301,7 +301,7 @@
   {
     "fecha_real": "28-12-2024",
     "fecha_calendario_liturgico": "Santos Inocentes",
-    "primera_lectura": "1Juan 1,5-2,2",
+    "primera_lectura": "1 Juan 1, 5--2,2",
     "salmo": "Salmo responsorial 123",
     "antifona_salmo": "Hemos salvado la vida, como un pájaro de la trampa del cazador.",
     "segunda_lectura": null,
@@ -323,7 +323,7 @@
   {
     "fecha_real": "30-12-2024",
     "fecha_calendario_liturgico": "6ta día de la octava de Navidad",
-    "primera_lectura": "1Juan 2,12-17",
+    "primera_lectura": "1 Juan 2,12-17",
     "salmo": "Salmo responsorial 95",
     "antifona_salmo": "Alégrese el cielo, goce la tierra.",
     "segunda_lectura": null,
@@ -333,7 +333,7 @@
   {
     "fecha_real": "31-12-2024",
     "fecha_calendario_liturgico": "7ma día de la octava de Navidad",
-    "primera_lectura": "1Juan 2,18-21",
+    "primera_lectura": "1 Juan 2,18-21",
     "salmo": "Salmo responsorial 95",
     "antifona_salmo": "Alégrese el cielo, goce la tierra.",
     "segunda_lectura": null,
@@ -355,7 +355,7 @@
   {
     "fecha_real": "02-01-2025",
     "fecha_calendario_liturgico": "Antes de Epifanía",
-    "primera_lectura": "1Juan 2,22-28",
+    "primera_lectura": "1 Juan 2,22-28",
     "salmo": "Salmo responsorial 97",
     "antifona_salmo": "Los confines de la tierra han contemplado la victoria de nuestro Dios.",
     "segunda_lectura": null,
@@ -365,7 +365,7 @@
   {
     "fecha_real": "03-01-2025",
     "fecha_calendario_liturgico": "Antes de Epifanía",
-    "primera_lectura": "1Juan 2,29-3,6",
+    "primera_lectura": "1 Juan 2,29-3,6",
     "salmo": "Salmo responsorial 97",
     "antifona_salmo": "Los confines de la tierra han contemplado la victoria de nuestro Dios.",
     "segunda_lectura": null,
@@ -375,7 +375,7 @@
   {
     "fecha_real": "04-01-2025",
     "fecha_calendario_liturgico": "Antes de Epifanía",
-    "primera_lectura": "1Juan 3,7-10",
+    "primera_lectura": "1 Juan 3,7-10",
     "salmo": "Salmo responsorial 97",
     "antifona_salmo": "Los confines de la tierra han contemplado la victoria de nuestro Dios.",
     "segunda_lectura": null,
@@ -394,10 +394,10 @@
     "evangelio": "Mateo 2, 1-12",
     "cita_evangelio": "Venimos de Oriente para dorar al Rey"
   },
-  {
+    {
     "fecha_real": "06-01-2025",
     "fecha_calendario_liturgico": "después de Epifanía",
-    "primera_lectura": "1Juan 3,22-4,6",
+    "primera_lectura": "1 Juan 3,22-4,6",
     "salmo": "Salmo responsorial 2",
     "antifona_salmo": "Te daré en herencia las naciones.",
     "segunda_lectura": null,
@@ -407,17 +407,17 @@
   {
     "fecha_real": "07-01-2025",
     "fecha_calendario_liturgico": "después de Epifanía",
-    "primera_lectura": "1Juan 4,7-10",
+    "primera_lectura": "1 Juan 4,7-10",
     "salmo": "Salmo responsorial 71",
     "antifona_salmo": "Que todos los pueblos de la tierra se postren ante ti, Señor.",
     "segunda_lectura": null,
     "evangelio": "Marcos 6,34-44",
     "cita_evangelio": "Jesús se revela como profeta en la multiplicación de los panes"
-  },
+  },//Hasta aquí
   {
     "fecha_real": "08-01-2025",
     "fecha_calendario_liturgico": "después de Epifanía",
-    "primera_lectura": "1Juan 4,11-18",
+    "primera_lectura": "1 Juan 4,11-18",
     "salmo": "Salmo responsorial 71",
     "antifona_salmo": "Se postrarán ante ti, Señor, todos los pueblos de la tierra.",
     "segunda_lectura": null,
@@ -427,7 +427,7 @@
   {
     "fecha_real": "09-01-2025",
     "fecha_calendario_liturgico": "después de Epifanía",
-    "primera_lectura": "1Juan 4,19-5,4",
+    "primera_lectura": "1 Juan 4,19-5,4",
     "salmo": "Salmo responsorial 71",
     "antifona_salmo": "Se postrarán ante ti, Señor, todos los pueblos de la tierra.",
     "segunda_lectura": null,
@@ -437,7 +437,7 @@
   {
     "fecha_real": "10-01-2025",
     "fecha_calendario_liturgico": "después de Epifanía",
-    "primera_lectura": "1Juan 5,5-13",
+    "primera_lectura": "1 Juan 5,5-13",
     "salmo": "Salmo responsorial 147",
     "antifona_salmo": "Glorifica al Señor, Jerusalén.",
     "segunda_lectura": null,
@@ -447,7 +447,7 @@
   {
     "fecha_real": "11-01-2025",
     "fecha_calendario_liturgico": "después de Epifanía",
-    "primera_lectura": "1Juan 5,14-21",
+    "primera_lectura": "1 Juan 5,14-21",
     "salmo": "Salmo responsorial 149",
     "antifona_salmo": "El Señor ama a su pueblo.",
     "segunda_lectura": null,
