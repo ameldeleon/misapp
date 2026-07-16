@@ -1,0 +1,56 @@
+                           +----------------+
+                           |  SEASON        |
+                           +----------------+
+                           | id             |
+                           | name           |
+                           | order          |
+                           +-------+--------+
+                                   |
+                                   |
+                                   |
+                                   v
+                     +-------------------------+
+                     | LITURGICAL_WEEK         |
+                     +-------------------------+
+                     | id                      |
+                     | season_id FK            |
+                     | week_number             |
+                     | name                    |
+                     | start_rule              |
+                     | end_rule                |
+                     +------------+------------+
+                                  |
+                                  |
+                                  |
+                                  v
+                 +------------------------------+
+                 | CELEBRATION                  |
+                 +------------------------------+
+                 | id                           |
+                 | week_id FK                   |
+                 | weekday (1-7)                |
+                 | name                         |
+                 | rank                         |
+                 | color                        |
+                 | cycle_applicable             |
+                 +---------------+--------------+
+                                 |
+                                 |
+                                 v
+                     +------------------------+
+                     | CELEBRATION_READING    |
+                     +------------------------+
+                     | id                     |
+                     | celebration_id FK      |
+                     | cycle (A,B,C)          |
+                     | first_reading_id       |
+                     | psalm_id               |
+                     | second_reading_id      |
+                     | gospel_id              |
+                     +-----------+------------+
+                                 |
+                                 |
+          +----------------------+----------------------+
+          |                      |                      |
+          v                      v                      v
+      READING                READING               READING
